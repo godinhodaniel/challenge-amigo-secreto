@@ -7,8 +7,7 @@ Este é um simples **sorteador de amigo secreto** desenvolvido em **HTML, CSS e 
 
 ## 🚀 Funcionalidades
 ✔️ Adicionar nomes à lista.  
-✔️ Evitar nomes duplicados na lista.  
-✔️ Remover espaços em branco nos nomes inseridos.  
+✔️ Evitar nomes duplicados na lista.
 ✔️ Exibir a lista de participantes em tempo real.  
 ✔️ Sortear um nome aleatório.  
 ✔️ Exibir o resultado do sorteio na tela.  
@@ -17,7 +16,7 @@ Este é um simples **sorteador de amigo secreto** desenvolvido em **HTML, CSS e 
 
 ## 🖥️ Demonstração
 Caso queira visualizar o projeto rodando, basta acessar:  
-🔗 [**https://github.com/godinhodaniel/challenge-amigo-secreto**](#)
+🔗 [**https://challenge-amigo-secreto-beryl-xi.vercel.app**](#)
 
 
 
