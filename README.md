@@ -17,7 +17,7 @@ Este é um simples **sorteador de amigo secreto** desenvolvido em **HTML, CSS e 
 
 ## 🖥️ Demonstração
 Caso queira visualizar o projeto rodando, basta acessar:  
-🔗 [**https://github.com/godinhodaniel/challenge-amigo-secreto**](#) *(adicione o link do GitHub Pages, caso publique o projeto)*  
+🔗 [**https://github.com/godinhodaniel/challenge-amigo-secreto**](#)
 
 
 
