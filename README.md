@@ -56,9 +56,6 @@ function adicionarAmigo() {
 🎲 Sorteando um amigo aleatório
 A função sortearAmigo() seleciona um nome aleatório da lista usando Math.random() e Math.floor().
 
-js
-Copiar
-Editar
 function sortearAmigo() {
     if (amigos.length === 0) {
         alert("Não há amigos para sortear!");
